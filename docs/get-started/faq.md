@@ -4,7 +4,6 @@ title: Sumo Logic FAQ
 sidebar_label: FAQ
 ---
 
-
 Frequently asked questions about Sumo Logic.
 
 ## What is the optimal log format to use with Sumo Logic?
